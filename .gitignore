@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios de dependências
+node_modules/
+
+# Diretórios de build
+dist/
+build/
+
+# Cache de pacotes
+*.cache/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos temporários
+tmp/
+temp/
